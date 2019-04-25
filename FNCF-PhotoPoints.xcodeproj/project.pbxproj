@@ -15,6 +15,7 @@
 		3FC7860D226FCBA800026CE0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FC7860B226FCBA800026CE0 /* LaunchScreen.storyboard */; };
 		3FC78618226FCBA800026CE0 /* FNCF_PhotoPointsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC78617226FCBA800026CE0 /* FNCF_PhotoPointsTests.swift */; };
 		3FC78623226FCBA800026CE0 /* FNCF_PhotoPointsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC78622226FCBA800026CE0 /* FNCF_PhotoPointsUITests.swift */; };
+		3FC78631226FCBF500026CE0 /* Plant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC78630226FCBF500026CE0 /* Plant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3FC7861E226FCBA800026CE0 /* FNCF-PhotoPointsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "FNCF-PhotoPointsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FC78622226FCBA800026CE0 /* FNCF_PhotoPointsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FNCF_PhotoPointsUITests.swift; sourceTree = "<group>"; };
 		3FC78624226FCBA800026CE0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FC78630226FCBF500026CE0 /* Plant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Plant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				3FC7860B226FCBA800026CE0 /* LaunchScreen.storyboard */,
 				3FC7860E226FCBA800026CE0 /* Info.plist */,
 				3FC78606226FCBA500026CE0 /* FNCF_PhotoPoints.xcdatamodeld */,
+				3FC78630226FCBF500026CE0 /* Plant.swift */,
 			);
 			path = "FNCF-PhotoPoints";
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3FC78602226FCBA500026CE0 /* ViewController.swift in Sources */,
+				3FC78631226FCBF500026CE0 /* Plant.swift in Sources */,
 				3FC78600226FCBA500026CE0 /* AppDelegate.swift in Sources */,
 				3FC78608226FCBA500026CE0 /* FNCF_PhotoPoints.xcdatamodeld in Sources */,
 			);
